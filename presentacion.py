@@ -12,3 +12,9 @@ color = input("¿Cual es tu color favorito? ")
 print(f"Tu color favorito es {color}")
 
 
+def hobby():
+    print("Me gusta programar y aprender cosas nuevas.")
+    
+hobby()
+
+
